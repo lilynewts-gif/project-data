@@ -1,0 +1,29 @@
+file,variable,description,unit
+economic_core.csv,area_code,Local authority code,text
+economic_core.csv,area_name,Local authority name,text
+economic_core.csv,year,Calendar year,year
+economic_core.csv,gva_per_hour,Gross value added per hour worked,£ per hour
+economic_core.csv,median_weekly_pay,Median weekly pay,£ per week
+economic_core.csv,business_birth_rate,Business births relative to active enterprises,per 100 active enterprises
+economic_core.csv,business_death_rate,Business deaths relative to active enterprises,per 100 active enterprises
+economic_core.csv,housing_affordability_ratio,House-price-to-earnings affordability ratio,ratio
+economic_core.csv,investment_index,Local investment index,2010≈100 index
+economic_core.csv,public_sector_share_pct,Public-sector employment share,percent
+economic_core.csv,manufacturing_share_pct,Manufacturing employment share,percent
+economic_core.csv,services_share_pct,Services employment share,percent
+economic_core.csv,record_status,Publication/revision status,text
+labour_market_wide.csv,unemployment_rate,Unemployment rate,percent
+labour_market_wide.csv,economic_inactivity_rate,Economic inactivity rate,percent
+labour_market_wide.csv,employment_rate,Employment rate,percent
+labour_market_wide.csv,claimant_count_rate,Claimant count rate,percent
+labour_market_wide.csv,qualification_level4_pct,Working-age population with Level 4+ qualification,percent
+labour_market_wide.csv,working_age_share_pct,Working-age share of population,percent
+population_and_connectivity.csv,population_growth_pct,Annual population growth,percent
+population_and_connectivity.csv,net_migration_rate,Net migration rate; positive values indicate net inflow,"per 1,000 residents"
+population_and_connectivity.csv,population,Resident population,persons
+population_and_connectivity.csv,population_density,Population density,persons per km²
+population_and_connectivity.csv,median_age,Median age,years
+population_and_connectivity.csv,broadband_pct,Premises with high-speed broadband availability,percent
+area_lookup.csv,AreaCode,Canonical local authority code,text
+area_lookup.csv,AreaName,Canonical local authority name,text
+area_lookup.csv,Region,English region,text
